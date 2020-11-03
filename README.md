@@ -1,4 +1,5 @@
-# qalqulator
+# Qalqulator
+A simple calculator
 
 ## Build Setup
 
